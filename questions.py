@@ -90,6 +90,7 @@
 # Add a new student "David": 92 to the dictionary students = {"Alice": 85, "Bob": 90, "Charlie": 78} and remove "Charlie" from the dictionary.
 # students = {"Alice": 85, "Bob": 90, "Charlie": 78}
 # del students["Charlie"]
+# students["David"]=92
 # print(students)
 
 
@@ -110,3 +111,6 @@
 # students = {"Alice": 85, "Bob": 90, "Charlie": 78}
 # for key,values in students.items():
 #     print(f"key:{key},value:{values}")
+
+
+
